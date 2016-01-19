@@ -10,7 +10,8 @@ namespace GithubTryapplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Gtihub! :3");
+            Console.WriteLine("Hello Gtihubi! :3");
+            Console.ReadLine();
         }
     }
 }
